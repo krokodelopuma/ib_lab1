@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+instance/
+users.db
+*.db
+.idea/
+.vscode/
