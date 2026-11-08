@@ -87,6 +87,5 @@ def register():
 
     return jsonify({'message': 'Created'}), 201
 
-
 if __name__ == '__main__':
     app.run()
